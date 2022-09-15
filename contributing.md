@@ -8,7 +8,31 @@ This repository is here to help folks get started collaborating on the AIM-RSF g
 
 A primary goal of our AI for Multiple Long Term Conditions Community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion. This document outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the AIM RSF Community to help us create safe and positive experiences for everyone.
 
-Please read through the Code of Conduct below before contributing.
+Please read through the **Code of Conduct** below before contributing.
+
+## Whatever is your availability, there is a way to contribute to this GitHub repository.
+
+💡 I'm new to contributing and don't know where to get started
+---
+Please familarize yourself with the AIM project and its goals. You can find information in our Getting Started repository or on The Alan Turing Institute's website and then read through the terms already existing in the Glossary. 
+
+If you see a term that you think should be updated but are new to collaborating on GitHub, you can read the awesome blog post about how to start contributing to projects on GitHub [linked here](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution), or attend our monthly Collaboration Cafes hosted by the AIM RSF Community Managers. Reach out to sbatchelor@turing.ac.uk or ezormpa@turing.ac.uk for joining information. 
+
+👋 I'm busy, I only have 5 minute
+---
+
+Look through our currently open [Issues](../../issues) to troubleshoot an issue, or look at the Discussions pages to participate in an ongoing discussion.
+You can also share this repository with one of your collaborators in the AIM Consortium who might be interested to get involved.
+
+
+🛠 I am ready to contribute 
+---
+
+- Raise mistakes, add information, or offer suggestions for the Glossary by opening a [Pull Request](../../pulls)
+  - Read details on [how to open a Pull Request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
+  - Submit trivial fixes (for example, a typo, a broken link or an obvious error)
+  - Start work on a contribution that is already listed as an issue or something you’ve already discussed
+  - A Pull Request doesn’t have to represent finished work. It’s usually better to open a Pull Request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line. You can always add more commits later.
 
 # Code of Conduct
 
