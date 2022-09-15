@@ -8,4 +8,4 @@ Our community has compiled a [Glossary](./glossary.md) of common terms relating 
 
 ### How to Contribute
 
-Please read our [Guidelines](./contributing.md) on how to contribute to this Glossary.
+Please read our [Guidelines](./contributing.md) on how to contribute to this Glossary. The Glossary is maintained and built by our community so if you believe a term is missing, please feel welcome to add or suggest content. For information on how to do this, read through the [Contributing](./contributing.md) information.
