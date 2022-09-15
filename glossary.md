@@ -1,8 +1,17 @@
 # Glossary
 
+> when adding a new term, copy and paste the template below and fill in the related details 
+
+```
+* < term > 
+   * < definition >
+        * Citation: 
+```
+
 * Algorithm
     * A set of rules that a machine can follow to learn how to do a task.
         * Citation: 
+
 * Artificial Intelligence
     * An artificially intelligent computer system makes predictions or takes actions based on patterns in existing data for example notifying a GP when disease risk factors have been identified in a patients records.
         * Citation: 
@@ -12,7 +21,16 @@
         * Citation:
 * Autonomous 
     * A machine is described as autonomous if it can perform its task or tasks without needing human intervention. 
-        * Citation
+        * Citation:
+
+* BNF: British National Formulary. 
+   * The BNF is a reference book containing the standard list of medicines used in UK prescribing.
+        * Citation:
+
+* BNF/Snomed
+   * The BNF/Snomed mapping file published by the NHS Business Services Authority (NHSBSA) represents the mapping of BNF codes to Dictionary of Medicines and Devices (dm+d) Snomed codes
+        * Citation:
+
 * Data Mining 
     * The process of analysing datasets in order to discover new patterns that might improve the model.
         * Citation:
@@ -22,38 +40,57 @@
 * Dataset
     * A collection of related data points, usually with a uniform order and tags.
         * Citation: 
+
+* ELSA: [English Longitudinal Study of Aging](https://www.elsa-project.ac.uk)
+   * A database
+        * Citation: 
+
 * Epidemiology 
     * The study of how often diseases occur in different groups of people and why. Epidemiological information is used to plan and evaluate strategies to prevent illness and as a guide to the management of patients in whom disease has already developed.
         * Citation: 
 * Label	
     * A part of training data that identifies the desired output for that particular piece of data.
         * Citation: 
+
 * Machine Intelligence 
     * An umbrella term for various types of learning algorithms, including machine learning and deep learning.
         * Citation:
+
 * Machine Learning 
     * This subset of AI is particularly focused on developing algorithms that will help machines to learn and change in response to new data, without the help of a human being.
         * Citation:
+
 * Model	
     * A broad term referring to the product of AI training, created by running a machine learning algorithm on training data.
         * Citation: 
+
 * Natural Language Generation (NLG)
     * This refers to the process by which a machine turns structured data into text or speech that humans can understand. Essentially, NLG is concerned with what a machine writes or says as the end part of the communication process. 
         * Citation:  
+
 * Natural Language Processing (NLP)
     * The umbrella term for any machine’s ability to perform conversational tasks, such as recognizing what is said to it, understanding the intended meaning and responding intelligibly. 
         * Citation: 
+
 * Natural Language Understanding (NLU) 
     * As a subset of natural language processing, natural language understanding deals with helping machines to recognize the intended meaning of language — taking into account its subtle nuances and any grammatical errors. 
         * Citation:
+
 * Python
     * A popular programming language used for general programming. 
         * Citation: 
+
 * Population Data Science
     * A multi-disciplinary field, which focuses on collections of individuals, and the biological, economic, social, and environmental experiences that shape their lives, their health and their wellbeing.
         * Citation: 
 
+* TREs: Trusted Research Environments
+   * < definition > 
+        * Citation: 
 
+
+   
+   
 ## Contributions
 Content in this glossary has been curated with the resources and support of the [National Institute for Health Research](https://www.nihr.ac.uk/), the [SAIL Database](https://saildatabank.com/), [Health Data Research UK](https://www.hdruk.ac.uk/), [Population Data Science Swansea](https://popdatasci.swan.ac.uk/), and the Swansea University Medical School. 
 
