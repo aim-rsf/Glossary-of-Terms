@@ -11,7 +11,7 @@ Our community has compiled a [Glossary](docs/glossary.md) of common terms relati
 </br>
 You can visit the website at this link: https://aim-rsf.github.io/Glossary-of-Terms.   
 
-This repository and its contents are here to help folks collaborate on the Glossary of Terms. We know that the field of AI and Medicine is huge (and continually expanding) so we hope that this is an area that will be consistently updated as the AIM project grows. The Glossary's contents are being developed ****openly**** and we invites contributions from ****anyone**** who wants to support the work of the AI for Multiple Long-Term Conditions Project.
+This repository and its contents are here to help folks collaborate on the Glossary of Terms. We know that the field of AI and Medicine is huge (and continually expanding) so we hope that this is an area that will be consistently updated as the AIM project grows. The Glossary's contents are being developed ****openly**** and we invite contributions from ****anyone**** who wants to support the work of the AI for Multiple Long-Term Conditions Project.
 
 :sparkles: How to Contribute
 ---
