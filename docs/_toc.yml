@@ -2,11 +2,11 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: homepage
+root: pages/homepage
 parts:
 - caption: Introduction
   chapters:
-  - file: about-us
+  - file: pages/about-us
   - file: contributing
   - file: genindex
 - caption: Glossaries
