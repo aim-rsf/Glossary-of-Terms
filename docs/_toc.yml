@@ -3,8 +3,17 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: glossary
-- file: about
-- file: contributing
-- file: references-list
+parts:
+- caption: Introduction
+  chapters:
+  - file: about
+  - file: contributing
+  - file: genindex
+- caption: Glossaries
+  chapters:
+  - file: terms/Artificial-Intelligence
+  - file: terms/Public-Engagement
+  - file: terms/Health
+- caption: Resources
+  chapters:
+  - file: references-list
