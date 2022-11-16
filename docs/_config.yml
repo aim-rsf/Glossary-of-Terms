@@ -19,6 +19,12 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
+# Set up the way in-line citations will display
+sphinx:
+  config:
+    bibtex_reference_style: author_year
+
+
 # Information about where the book exists on the web
 repository:
   url: https://github.com/aim-rsf/Glossary-of-Terms  # Online location of your book
@@ -28,5 +34,5 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  use_issues_button: true
+  use_issues_button: false
   use_repository_button: true
