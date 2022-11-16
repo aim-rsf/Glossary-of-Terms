@@ -3,7 +3,7 @@
 
 title: Glossary of Terms
 author: AI for Multiple Long-Term Conditions Community
-logo: AIM-RSF-ICON.png
+logo: images/AIM-RSF-ICON.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
