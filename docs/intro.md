@@ -6,7 +6,9 @@ The AIM Research Support Facility (RSF), based at The Alan Turing Institute with
 
 Our community has compiled a [Glossary](./glossary) of common terms relating to Health, Medicine, Artificial Intelligence, and Data Science to support the development and dissemnation of AIM project work.
 
+You can find a [full list of terms](), or browse the topic pages to find topic specific terms. 
+
 ### How to Contribute
 
-Please read our [Guidelines](.contributing) on how to contribute to this Glossary. The Glossary is maintained and built by our community so if you believe a term is missing, please feel welcome to add or suggest content. For information on how to do this, read through the [Contributing](./contributing.md) information.
+Please read our [Guidelines](./contributing) on how to contribute to this Glossary. The Glossary is maintained and built by our community so if you believe a term is missing, please feel welcome to add or suggest content. For information on how to do this, read through the [Contributing](./contributing.md) information.
 
