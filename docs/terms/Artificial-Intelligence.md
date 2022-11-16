@@ -21,6 +21,27 @@ Data science
 Dataset	
   A collection of related data points, usually with a uniform order and tags.
   
+Label	
+	A part of training data that identifies the desired output for that particular piece of data.
+
+Machine Intelligence	
+	An umbrella term for various types of learning algorithms, including machine learning and deep learning.
+
+Machine Learning	
+	This subset of AI is particularly focused on developing algorithms that will help machines to learn and change in response to new data, without the help of a human being.
+
+Model	
+	A broad term referring to the product of AI training, created by running a machine learning algorithm on training data.
+
+Natural Language Generation (NLG)
+	This refers to the process by which a machine turns structured data into text or speech that humans can understand. Essentially, NLG is concerned with what a machine writes or says as the end part of the communication process.
+
+Natural Language Processing (NLP)
+	The umbrella term for any machine’s ability to perform conversational tasks, such as recognizing what is said to it, understanding the intended meaning and responding intelligibly.
+
+Natural Language Understanding (NLU)
+	As a subset of natural language processing, natural language understanding deals with helping machines to recognize the intended meaning of language — taking into account its subtle nuances and any grammatical errors.
+
 Python	
   A popular programming language used for general programming. {cite}`perez2011python`
 
