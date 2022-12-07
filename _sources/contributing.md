@@ -2,13 +2,19 @@
 
 Thank you for taking the time to contribute to the AIM Research Support Facility's Glossary of Terms 🎉
 
-This repository is here to help folks get started collaborating on the AIM-RSF glossary of terms. We know that the field of AI and Medicine is huge (and continually expanding) so we hope that this is an area that will be consistently updated as the AIM project grows. The Glossary's contents are being developed ****openly**** and we invites contributions from ****anyone**** who wants to support the work of the AI for Multiple Long-Term Conditions Project.
+This document is here to help folks get started contributing on the AIM-RSF glossary of terms and outlines the community's Code of Conduct. 
+
+We know that the field of AI and Medicine is huge (and continually expanding) so we hope that the Glossary will be consistently updated as the AIM project grows. 
+
+The Glossary's contents are being developed ****openly**** and we invite contributions from ****anyone**** who wants to support the work of the AI for Multiple Long-Term Conditions Project.
 
 ### What is a "Contributor"
 
-A contributor is anyone who suggests, creates, adds to, changes, updates, or reviews the material in this repository. Please refer to the [**Code of Conduct**](#code-of-conduct) section for information on what behaviours we expect of contributors.
+A contributor is anyone who suggests, creates, adds to, changes, updates, or reviews the material that is part of this project. Please refer to the [**Code of Conduct**](#code-of-conduct) section for information on what behaviours we expect of contributors.
 
-A primary goal of our AI for Multiple Long Term Conditions Community is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion. This document outlines our expectations for all those who participagit statte in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the AIM RSF Community to help us create safe and positive experiences for everyone.
+A primary goal of our AI for Multiple Long Term Conditions Community is to be inclusive to as many contributors with the most varied and diverse backgrounds possible. We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion. 
+
+This document outlines our expectations for all those who participagit statte in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the AIM RSF Community to help us create safe and positive experiences for everyone.
 
 Please read through the [Code of Conduct](#code-of-conduct) below before contributing.
 
@@ -16,15 +22,18 @@ Please read through the [Code of Conduct](#code-of-conduct) below before contrib
 
 💡 I'm new to contributing and don't know where to get started
 ---
-Please familarize yourself with the AIM project and its goals. You can find information in our [Getting Started repository](https://github.com/aim-rsf/Getting-Started) or on [The Alan Turing Institute's website](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility). Remember to read through the terms that already exist in the Glossary before suggesting a new one. 
+1. Please familarize yourself with the AIM project and its goals. You can find information about the AIM project in our [Getting Started](https://github.com/aim-rsf/Getting-Started) repository on GitHub or on [The Alan Turing Institute's website](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility). 
+2. Come along to our monthly Collaboration Cafes that are held once a month on the third Thursday of the month from 14:00 to 16:00 GMT.
+3. Read through the terms that already exist in the Glossary before suggesting a new one. </br>
+✍️ You can suggest Terms in the [Disucssion Section](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3), through our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc9oO2UQYkPqjq-O0USTVwk23JR5_vBAId6WsGzu7KiAnyF9w/viewform?usp=sf_link), or by opening an Issue and making a Pull Request. 
 
-If you see a term that you think should be updated but are new to collaborating on GitHub, you can read [this awesome blog post about how to start contributing to projects on GitHub](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution), **or** attend our monthly Collaboration Cafes hosted by the AIM RSF Community Managers. Reach out to sbatchelor@turing.ac.uk or ezormpa@turing.ac.uk for information on how to join the Collaboration Cafes. 
+If you see a term that you think should be updated but are new to collaborating on GitHub, please read [this awesome blog post about how to start contributing to projects on GitHub](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution), **or** attend our monthly Collaboration Cafes hosted by the AIM RSF Community Managers. Reach out to sbatchelor@turing.ac.uk or ezormpa@turing.ac.uk for information on how to join the Collaboration Cafes. 
 
 
 🛠 I am ready to contribute 
 ---
 
-You can contribute to this Glossary in 2 ways: **Pull Requests** or **Discussions**
+You can contribute to this Glossary in 3 ways: **Pull Requests**, **Discussions Forum**, or using **Google Forms**.
 - For community members who are new to GitHub, we suggest getting involved in Discussions.
   - You can suggest new terms that need to be added to the Glossary by commenting on the [Adding Terms to the Glossary](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3) Discussion
   - Or you can add definitions by finding terms in the [Discussion List](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3) that do not have definitions or citiations added to them.  
@@ -32,6 +41,7 @@ You can contribute to this Glossary in 2 ways: **Pull Requests** or **Discussion
   - Read details on [how to open a Pull Request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
   - Submit fixes (for example: a typo, a broken link, or an obvious error)
   - Note: A Pull Request doesn’t have to represent finished work. It’s usually better to open a Pull Request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line of the Pull Request. You can always add more commits to a PR later.
+ - Although it's our goal to support the skill development and learning of our community through GitHub, we recognize that there is a steep learning curve. In order to be accessible for contributions of all backgrounds, we have created a [Google Form]((https://docs.google.com/forms/d/e/1FAIpQLSc9oO2UQYkPqjq-O0USTVwk23JR5_vBAId6WsGzu7KiAnyF9w/viewform?usp=sf_link) where community members can suggest new terms to the Glossary.
 
 # Code of Conduct
 
@@ -51,6 +61,7 @@ The following behaviors are expected and requested of all community members:
 
 ## 2. Unacceptable Behavior
 The following behaviors are considered harassment and are unacceptable within our community:
+
 * Violence, threats of violence or violent language directed against another person.
 * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
 * Posting or displaying explicit or violent material.
@@ -147,7 +158,7 @@ https://www.contributor-covenant.org/translations.
 ---
 
 > [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-> The work in this repository is [licensed](https://github.com/aim-rsf/Getting-Started/blob/main/LICENSE.md) under the Creative Commons Attribution 4.0 International license for documentation and made public to our collaborators within the AIM consortium and the larger research community. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use, and with no additional restrictions. Please note that this license does not extend to cover other materials or repositories in this organization unless directly specified. 
+> The work of this project is [licensed](https://github.com/aim-rsf/Getting-Started/blob/main/LICENSE.md) under the Creative Commons Attribution 4.0 International license for documentation and made public to our collaborators within the AIM consortium and the larger research community. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use, and with no additional restrictions. Please note that this license does not extend to cover other materials or repositories in this organization unless directly specified. 
 
 
 For a more detailed contribution guideline, please check out *[The Turing Way's CONTRIBUTING.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)*.
