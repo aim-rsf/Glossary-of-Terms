@@ -5,7 +5,7 @@ This section of the Glossary contains terms relating to Health.
 
 ```{glossary}
 
-Clincal Phenotypes
+Clinical Phenotypes
 	A single or combination of observable disease attributes that describe differences (such as symptoms, exacerbations, response to therapy, rate of disease progression) between individuals with a disease or condition {cite}`Augusti2013`. Clincal Phenotypes can be used by researchers as inclusion and exclusion measures for different illnesses and conditions that they are researching.
 
 Epidemiology 	
