@@ -77,6 +77,9 @@ Python
 	
 Statistics 
 	The study of the collection, organization, analysis, interpretation, and presentation of data. It is used to understand things like, whether data is representative, whether measurements are as expected whether groups of data are different to one another and how reliable comparisons of groups of data are {cite}`OPTIMAL`.
+	
+Synthetic Data
+       [Definition, citation]
   
 Trusted Research Environments
 	Highly secure computing spaces that provide remote access to health data for approved researchers. Trusted Research Environments (TREs) can also be called **Data Safe Havens** and **Secure Data Environments** {cite}`HealthDataGateway2022`. 
