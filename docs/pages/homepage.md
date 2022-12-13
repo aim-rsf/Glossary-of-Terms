@@ -12,7 +12,7 @@ You can find a [full list of terms](https://aim-rsf.github.io/Glossary-of-Terms/
 
 The Glossary has been developed to help make engagement in meetings, seminars, and AIM research as a whole, **easier**. Our community wants to help foster conversations between experts by study and experts by experience, and a large part of that means understanding one another. 
 
-We hope that you can use (and improve) the Glossary as you engage in, read about, and tell others about the awesome research happening as part of AIM. This Glossary may start of as just a list of words and definitions, but ultimately we hope it leads to better, more accessible, and more accurate research that helps everyone worldwide. 
+We hope that you can use (and improve) the Glossary as you engage in, read about, and tell others about the awesome research happening as part of the AIM Programme. This Glossary may start of as just a list of words and definitions, but ultimately we hope it leads to better, more accessible, and more accurate research that helps everyone worldwide. 
 
 ### How to Contribute
 
