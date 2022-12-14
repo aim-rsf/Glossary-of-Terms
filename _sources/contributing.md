@@ -20,8 +20,8 @@ Please read through the [Code of Conduct](#code-of-conduct) below before contrib
 
 ## Whatever your availability, there is a way to contribute to the Glossary.
 
-💡 I'm new to contributing and don't know where to get started
----
+### 💡 I'm new to contributing and don't know where to get started
+
 1. Please familarize yourself with the AIM project and its goals. You can find information about the AIM project in our [Getting Started](https://github.com/aim-rsf/Getting-Started) repository on GitHub or on [The Alan Turing Institute's website](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility). 
 2. Come along to our monthly Collaboration Cafes that are held once a month on the third Thursday of the month from 14:00 to 16:00 GMT.
 3. Read through the terms that already exist in the Glossary before suggesting a new one. </br>
@@ -30,8 +30,7 @@ Please read through the [Code of Conduct](#code-of-conduct) below before contrib
 If you see a term that you think should be updated but are new to collaborating on GitHub, please read [this awesome blog post about how to start contributing to projects on GitHub](https://opensource.guide/how-to-contribute/#how-to-submit-a-contribution), **or** attend our monthly Collaboration Cafes hosted by the AIM RSF Community Managers. Reach out to sbatchelor@turing.ac.uk or ezormpa@turing.ac.uk for information on how to join the Collaboration Cafes. 
 
 
-🛠 I am ready to contribute 
----
+### 🛠 I am ready to contribute 
 
 You can contribute to this Glossary in 3 ways: **Pull Requests**, **Discussions Forum**, or using **Google Forms**.
 - For community members who are new to GitHub, we suggest getting involved in Discussions.
@@ -41,7 +40,9 @@ You can contribute to this Glossary in 3 ways: **Pull Requests**, **Discussions 
   - Read details on [how to open a Pull Request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
   - Submit fixes (for example: a typo, a broken link, or an obvious error)
   - Note: A Pull Request doesn’t have to represent finished work. It’s usually better to open a Pull Request early on, so others can watch or give feedback on your progress. Just mark it as a “WIP” (Work in Progress) in the subject line of the Pull Request. You can always add more commits to a PR later.
- - Although it's our goal to support the skill development and learning of our community through GitHub, we recognize that there is a steep learning curve. In order to be accessible for contributions of all backgrounds, we have created a [Google Form]((https://docs.google.com/forms/d/e/1FAIpQLSc9oO2UQYkPqjq-O0USTVwk23JR5_vBAId6WsGzu7KiAnyF9w/viewform?usp=sf_link) where community members can suggest new terms to the Glossary.
+ - Although it's our goal to support the skill development and learning of our community through GitHub, we recognize that there is a steep learning curve. In order to be accessible for contributions of all backgrounds, we have created a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc9oO2UQYkPqjq-O0USTVwk23JR5_vBAId6WsGzu7KiAnyF9w/viewform?usp=sf_link) where community members can suggest new terms to the Glossary.
+
+--- 
 
 # Code of Conduct
 
