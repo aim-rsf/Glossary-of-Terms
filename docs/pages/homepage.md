@@ -16,11 +16,19 @@ We hope that you can use (and improve) the Glossary as you engage in, read about
 
 ### How to Contribute
 
-Please read our [Guidelines](https://aim-rsf.github.io/Glossary-of-Terms/contributing.html) on how to contribute to this Glossary. 
+Please read our full [Guidelines](https://aim-rsf.github.io/Glossary-of-Terms/contributing.html) on how to contribute to this Glossary. 
 
-You can suggest new terms and ways to improve the glossary, help with the infrastructure and maintenance of the Glossary, or expand the definitions that we already have. **There are countless ways to contribute.**
+A contributor is anyone who suggests, creates, adds to, changes, updates, or reviews the material that is part of the Glossary. Please refer to the Code of Conduct section for information on what behaviours we expect of contributors and from our community as a whole. 
+
+**Ways to Contribute:**
+* ✍️ Open an [Issue](https://github.com/aim-rsf/Glossary-of-Terms/issues/new/choose) and making a Pull Request through GitHub.
+* 💬 Visit the Glossary's [Discussion Section](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3) where you can suggest a new term or add a definition to existing terms.
+* 📚 Use our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc9oO2UQYkPqjq-O0USTVwk23JR5_vBAId6WsGzu7KiAnyF9w/viewform?usp=sf_link) to suggest new terms. Remeber to read through what terms already exist before suggesting a new one. See the full terms page [here](https://aim-rsf.github.io/Glossary-of-Terms/genindex.html) for the complete list. 
+* 👋 Join our monthly Collaboration Cafes on the third Thursday every month from 14:00 to 16:00 GMT where community members work collaboratively on the Glossary. Reach out to sbatchelor@turing.ac.uk or ezormpa@turing.ac.uk for information on how to join the Collaboration Cafes.
+* 📢 Reach out to our PPIE Community Manager Sophia [sbatchelor@turing.ac.uk](mailto:sbatchelor@turing.ac.uk) and ask about getting involved. 
+
 
 We are currently investigating how to make the Glossary easier to use. If you woud like to take part in testing out the Glossary or suggest ways we can improve it, please contact [sbatchelor@turing.ac.uk](mailto:sbatchelor@turing.ac.uk). 
 
-The Glossary is maintained and built by our community so if you believe a term is missing, please feel welcome to add or suggest content. For information on how to do this, read through the [Contributing](https://aim-rsf.github.io/Glossary-of-Terms/contributing.html) information.
+The Glossary is maintained and built by our community so if you believe a term is missing, please feel welcome to add or suggest content. For information on how to do this, read through the full [Contributing Guide](https://aim-rsf.github.io/Glossary-of-Terms/contributing.html) for information.
 
