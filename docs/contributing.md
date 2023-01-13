@@ -14,7 +14,7 @@ A contributor is anyone who suggests, creates, adds to, changes, updates, or rev
 
 A primary goal of our AI for Multiple Long Term Conditions Community is to be inclusive to as many contributors with the most varied and diverse backgrounds possible. We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion. 
 
-This document outlines our expectations for all those who participagit statte in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the AIM RSF Community to help us create safe and positive experiences for everyone.
+This document outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the AIM RSF Community to help us create safe and positive experiences for everyone.
 
 Please read through the [Code of Conduct](#code-of-conduct) below before contributing.
 
