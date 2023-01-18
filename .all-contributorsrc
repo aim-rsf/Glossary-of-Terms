@@ -60,6 +60,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Chaps76",
+      "name": "Dave Chapman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95072141?v=4",
+      "profile": "https://github.com/Chaps76",
+      "contributions": [
+        "bug",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
