@@ -1,6 +1,6 @@
 # Welcome
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 :books: About the Glossary of Terms
@@ -39,6 +39,7 @@ A massive thank you goes to these wonderful people who have contributed to and b
       <td align="center" valign="top" width="14.28%"><a href="https://sgibson91.github.io/"><img src="https://avatars.githubusercontent.com/u/44771837?v=4?s=100" width="100px;" alt="Sarah Gibson"/><br /><sub><b>Sarah Gibson</b></sub></a><br /><a href="#infra-sgibson91" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#mentoring-sgibson91" title="Mentoring">🧑‍🏫</a> <a href="#tool-sgibson91" title="Tools">🔧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://linkedin.com/in/rstickland-phd"><img src="https://avatars.githubusercontent.com/u/50215726?v=4?s=100" width="100px;" alt="Rachael Stickland"/><br /><sub><b>Rachael Stickland</b></sub></a><br /><a href="#content-RayStick" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Chaps76"><img src="https://avatars.githubusercontent.com/u/95072141?v=4?s=100" width="100px;" alt="Dave Chapman"/><br /><sub><b>Dave Chapman</b></sub></a><br /><a href="https://github.com/aim-rsf/Glossary-of-Terms/issues?q=author%3AChaps76" title="Bug reports">🐛</a> <a href="https://github.com/aim-rsf/Glossary-of-Terms/pulls?q=is%3Apr+reviewed-by%3AChaps76" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eirini-zormpa"><img src="https://avatars.githubusercontent.com/u/30151074?v=4?s=100" width="100px;" alt="Eirini Zormpa"/><br /><sub><b>Eirini Zormpa</b></sub></a><br /><a href="https://github.com/aim-rsf/Glossary-of-Terms/pulls?q=is%3Apr+reviewed-by%3Aeirini-zormpa" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/aim-rsf/Glossary-of-Terms/issues?q=author%3Aeirini-zormpa" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
