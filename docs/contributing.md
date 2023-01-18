@@ -4,15 +4,15 @@ Thank you for taking the time to contribute to the AIM Research Support Facility
 
 This document is here to help folks get started contributing on the AIM-RSF glossary of terms and outlines the community's Code of Conduct. 
 
-We know that the field of AI and Medicine is huge (and continually expanding) so we hope that the Glossary will be consistently updated as the AIM project grows. 
+We know that the field of AI and Medicine is huge (and continually expanding) so we hope that the Glossary will be consistently updated as the AIM Programme grows. 
 
-The Glossary's contents are being developed ****openly**** and we invite contributions from ****anyone**** who wants to support the work of the AI for Multiple Long-Term Conditions Project.
+The Glossary's contents are being developed ****openly**** and we invite contributions from ****anyone**** who wants to support the work of the AI for Multiple Long-Term Conditions (AIM) Programme.
 
 ### What is a "Contributor"
 
 A contributor is anyone who suggests, creates, adds to, changes, updates, or reviews the material that is part of this project. Please refer to the [**Code of Conduct**](#code-of-conduct) section for information on what behaviours we expect of contributors.
 
-A primary goal of our AI for Multiple Long Term Conditions Community is to be inclusive to as many contributors with the most varied and diverse backgrounds possible. We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion. 
+A primary goal of our AI for Multiple Long Term Conditions Community is to be inclusive to as many contributors with the most varied and diverse backgrounds possible. We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and/or religion. 
 
 This document outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. We invite all those who participate in the AIM RSF Community to help us create safe and positive experiences for everyone.
 
@@ -22,7 +22,7 @@ Please read through the [Code of Conduct](#code-of-conduct) below before contrib
 
 ### 💡 I'm new to contributing and don't know where to get started
 
-1. Please familarize yourself with the AIM project and its goals. You can find information about the AIM project in our [Getting Started](https://github.com/aim-rsf/Getting-Started) repository on GitHub or on [The Alan Turing Institute's website](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility). 
+1. Please familarize yourself with the AIM Programme and its goals. You can find information about the AIM Programme in our [Getting Started](https://github.com/aim-rsf/Getting-Started) repository on GitHub or on [The Alan Turing Institute's website](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility). 
 2. Come along to our monthly Collaboration Cafes that are held once a month on the third Thursday of the month from 14:00 to 16:00 GMT.
 3. Read through the terms that already exist in the Glossary before suggesting a new one. </br>
 ✍️ You can suggest Terms in the [Disucssion Section](https://github.com/aim-rsf/Glossary-of-Terms/discussions/3), through our [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc9oO2UQYkPqjq-O0USTVwk23JR5_vBAId6WsGzu7KiAnyF9w/viewform?usp=sf_link), or by opening an Issue and making a Pull Request. 
@@ -48,12 +48,12 @@ You can contribute to this Glossary in 3 ways: **Pull Requests**, **Discussions 
 
 ## 1. Expected Behaviour
 
-The following behaviors are expected and requested of all community members:
+The following behaviours are expected and requested of all community members:
 
 * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
 * Exercise consideration and respect in your speech and actions.
 * Attempt collaboration before conflict.
-* Refrain from demeaning, discriminatory, or harassing behavior and speech.
+* Refrain from demeaning, discriminatory, or harassing behaviour and speech.
 * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 * Demonstrate empathy and kindness toward other people, and be respectful of differing opinions, viewpoints, and experiences. 
 * Treat everything as an opportunity to learn and accept responsibility and apologize to those affected by our mistakes when they occur. 
@@ -72,7 +72,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Publishing others' private information, such as a physical or email address, without their explicit permission. Please refer to the [Privacy Policy](./PRIVACY_POLICY.md) for more information. 
 * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
 * Deliberate intimidation, stalking or following (online or in person).
-* Advocating for, or encouraging, any of the above behavior.
+* Advocating for, or encouraging, any of the above behaviour.
 * Sustained disruption of community events, and other conduct which could reasonably be considered inappropriate in a professional setting. 
 
 
@@ -80,7 +80,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 The AIM RSF Community leaders are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
+response to any behaviour that they deem inappropriate, threatening, offensive,
 or harmful.
 
 Community leaders have the right and responsibility to remove, edit, or reject
@@ -88,7 +88,7 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate. 
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. 
+If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a community organizer as soon as possible. 
 
 ## Scope
 
@@ -98,7 +98,7 @@ Examples of representing our community include using an official e-mail address,
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be
 reported to the community leaders responsible for enforcement at
 sbatchelor@turing.ac.uk.
 All complaints will be reviewed and investigated promptly and fairly.
@@ -111,7 +111,7 @@ the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
+**Community Impact**: Use of inappropriate language or other behaviour deemed
 unprofessional or unwelcome in the community.
 
 **Consequence**: A private, written warning from community leaders, providing
@@ -123,12 +123,12 @@ behavior was inappropriate. An formal apology may be requested.
 **Community Impact**: A violation through a single incident or series
 of actions.
 
-**Consequence**: A warning with consequences for continued behavior. Project leaders will be notified and separate meetings may be set reflective of the severity of the behaviour. 
+**Consequence**: A warning with consequences for continued behaviour. Project leaders will be notified and separate meetings may be set reflective of the severity of the behaviour. 
 
 ### 3. Ban from Community Events.
 
 **Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
+standards, including sustained inappropriate behaviour,  harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from events, meetings, and forums used by the AI for Multiple Long Term Conditions Research Support Facility (AIM RSF) to support the community. Further involvement in the AIM projects at large will be at the discretion of the individual consortium leaders upon advisement from AIM RSF Community leaders. 
