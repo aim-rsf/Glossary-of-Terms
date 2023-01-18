@@ -6,7 +6,7 @@ This section of the Glossary contains terms relating to Public and Patient Invol
 ```{glossary}
 
 Citizen Science
-    Citizen Science is the practice of public participation and collaboration in scientific research. Citizens take an active role in the scientific process in collaboration with researchers; from forming research questions and methods, to curating data and disseminating findings {cite}`Boyd2014`.
+    Citizen Science is the practice of public participation and collaboration in scientific research. Citizens take an active role in the scientific process in collaboration with researchers; from forming research questions and methods, to curating data and disseminating findings. 
 
 Focus group
     A focus group is a small group of people brought together to talk. The purpose is to listen and gather information. It is a good way to find out how people feel or think about an issue, or to come up with possible solutions to problems {cite}`NIHR2022`.
