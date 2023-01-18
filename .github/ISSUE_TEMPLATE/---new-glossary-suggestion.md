@@ -9,12 +9,12 @@ assignees: BrainonSilicon
 
 Term
 ---
-<!-- Write the term that you are suggesting to the Glossary here-->
+<!-- Write the term that you are suggesting to the Glossary in the space below. Also add it to the title section above this text box. -->
 
 
 Definition
 ---
-<!-- Provide the definition(s) of that term here -->
+<!-- Provide the definition(s) of that term here. **Or** give an example sentence that includes the new term. -->
 
 Citation
 ---
