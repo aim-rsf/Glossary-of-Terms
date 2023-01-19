@@ -80,6 +80,15 @@
         "review",
         "bug"
       ]
+    },
+    {
+      "login": "KellyCheungPPI",
+      "name": "KellyCheungPPI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/123068631?v=4",
+      "profile": "https://github.com/KellyCheungPPI",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
