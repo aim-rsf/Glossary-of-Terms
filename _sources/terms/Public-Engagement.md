@@ -14,6 +14,10 @@ Focus group
 Informed consent
     A process by which a participant voluntarily confirms his or her willingness to participate in a particular trial, after having been informed of all aspects of the trial that are relevant to the decision to participate {cite}`NIHR2022`. 
 
+Plain English Summary
+        A plain English summary is a clear, brief summary of the research that has been written for members of the public, rather than for researchers. It should be written clearly and simply, without jargon and with an explanation of any technical terms {cite}NIHR2022. This is sometimes also known as a "Plain Language Summary" or "Lay Summary", however the term "Lay Summary" is no longer used by most communities.  
+        
+
 PPIE - Public and Patient Involvement and Engagement
     Also called PPI (Public and Patient Involvement). Patient and Public Involvement means that activities and research are carried out ‘with’ or ‘by’ members of the public or patients, rather than ‘to’, ‘about’ or ‘for’ them. Patient and Public Engagement is about ensuring that information and research outputs reach patients and the public. 
 
