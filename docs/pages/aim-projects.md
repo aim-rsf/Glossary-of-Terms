@@ -48,13 +48,44 @@ We aim to understand more about what things influence the way people develop ear
 3.	We will also use AI methods to help us understand the order in which people develop conditions and how they group together to become ‘burdensome’. 
 4.	We will have experts and members of the public in a ‘People, Policy and Impact’ group identify opportunities to prevent burdensome multimorbidity. 
 
-## How MELD-B will involve patients and memebrs of the public
+### How MELD-B will involve patients and memebrs of the public
 A diverse ten-person Patient and Public Advisory Board will oversee the project. Members of the Board will actively engage with each element of the project and be asked to discuss results as they emerge. This will ensure that the experiences and priorities of people living with multimorbidity will always be considered.  Their input will ensure all decisions consider the experiences and priorities of people with multimorbidity. 
 
-## How MELD-B's will share their research's findings
+### How MELD-B's will share their research's findings
 Our ‘People, Policy and Impact’ group will share our learning and influence policy and practice on preventing burdensome multimorbidity by co-producing public health advice.  We will share findings through academic channels, a website and social media.
 
 * You can read more about the MELD-B project on their page at [University of Southampton - MELD-B](https://www.southampton.ac.uk/publicpolicy/support-for-policymakers/policy-projects/Current%20projects/meld-b.page) or in their first blog post which you can find here: [University of Southampton - MELD-B Introductory Blog](https://www.southampton.ac.uk/publicpolicy/support-for-policymakers/blogs/evidence-to-policy-blog/meld-b-blog.page)
+
+
+## AIM-CISC
+> The AIM-CISC team will use Artificial Intelligence to analyse and understand this information to attempt to establish what patterns of multimorbidity are most common, which most affect people's lives, and help improve quality and safety of care
+> 
+> AIM-CISC project is based at the University of Edinburgh, with collaborators from The Roslin Institute, NHS Lothian, and University College London
+> You can find More information about AIM CISC on their website: https://www.ed.ac.uk/usher/aim-cisc 
+
+### Background to AIM-CISC's Project
+Long-term conditions are health issues which persist over years. Many people have more than one long-term condition (e.g. having both diabetes and asthma), which is usually called multimorbidity. Multimorbidity often seriously affects how well people feel and what they are able to do. 
+
+However, health professionals like doctors or nurses often focus on one condition at a time. This can make it hard to ensure that care is properly joined-up and coordinated for people with multimorbidity. Research also tends to focus on one condition at a time. This is partly because people with multimorbidity can have very complicated mixes of different conditions and treatments. 
+
+Artificial Intelligence (AI) uses powerful computers to analyse and understand this kind of complex information, which is carefully gathered by the NHS and others under strict rules to keep it safe and confidential. New AI methods can help us better understand what patterns of multimorbidity are common and which most affect people’s lives, and help improve the quality and safety of care. 
+
+## What AIM-CISC Aims to achieve 
+We propose a programme of research which will use AI methods to:
+
+1. Identify the most common combinations of long-term conditions that people have, and examine whether people inherit a tendency to get particular combinations of conditions from their parents. This will help us understand what causes multimorbidity, and identify potential treatments.
+
+2. Examine whether particular combinations of long-term conditions are more common in some areas or communities. This will help us understand how where people live affects their health (for example, through
+differences in air pollution, or in access to safe open-space to play/exercise, or in having local shops that sell affordable healthy food).
+
+3. Develop new methods for identifying people who are likely to have unexpected health problems like falls or bleeding. This will help us to work out what changes to their treatment or care could prevent these problems. One example of a possible change is medicines review to make sure that people take the right medicines for them as an individual. Another is rapid, comprehensive assessment of people admitted to hospital to ensure that their care suits all of their needs rather than just the problem that brought them into hospital.
+
+Our team combines expertise in AI methods and clinical researchers with experience of delivering and researching healthcare for people with multiple long-term conditions. 
+We will work closely with patients and members of the public to help us focus and interpret our research, and to help us make our findings widely known. 
+We will also work closely with other research teams to share learning and methods, and with the NHS and government to ensure that the research turns into practical improvements in care.
+
+
+
 
 
 ## DECODE 
