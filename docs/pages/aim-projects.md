@@ -5,10 +5,11 @@
 
 ## OPTIMAL 
 
-> The OPTIMAL project is based at the University of Birmingham and University of Manchester, with collaborators in the University Hospitals Birmingham NHS Trust, NHS Greater Glasgow & Clyde, and the University of St Andrews
+> The OPTIMAL project is based at the University of Birmingham and University of Manchester, with collaborators in the University Hospitals Birmingham NHS Trust, NHS Greater Glasgow & Clyde, and the University of St Andrews </br>
+> 
 > The project is about **OPTIM**ising therapies, discovering therapeutic targets and **AI** assisted clinical management for patients **L**iving with complex multiple long-term conditions. This description is how the team came up with the name **OPTIMAL**.
 
-### What’s the problem OPTIMAL is addressing?
+### What's the research problem OPTIMAL is addressing?
 We treat each disease separately. This means we prescribe a different drug for each condition, which may not help people with four or more long-term health problems. (We say these people have complex multimorbidity or "**cMM**".) A drug for one disease can make another disease worse or better. But there’s no information on the effect of one drug on a second disease. This means we are not sure which drug to prescribe in these people.
 We can group such people based on their mixes of disease. Then we can study the effects of a drug on each disease mix. This should help doctors prescribe better and reduce the number of drugs patients need. That would benefit almost all people with cMM.
 
@@ -31,7 +32,8 @@ The OPTIMAL team includes patients, public members, and world leading experts fr
 
 ## MELD-B
 
-> The MELD-B project is based at the University of Southampton, with collaborators at University of Glasgow, Swansea University, Southampton City Council, the University of Aberdeen, and King's College London
+> The MELD-B project is based at the University of Southampton, with collaborators at University of Glasgow, Swansea University, Southampton City Council, the University of Aberdeen, and King's College London. </br>
+> 
 > The MELD-B team uses an Artificial Intelligence-enhanced analysis of birth cohort data and electronic health records to identify lifecourse time points and targets for the prevention of early-onset, burdensome Multiple Long-Term Conditions. 
 
 ### Background to MELD-B's Research
@@ -56,6 +58,11 @@ Our ‘People, Policy and Impact’ group will share our learning and influence 
 
 
 ## DECODE 
+
+> The DECODE project aims to map the challenges and requirements for **D**ata-driven, machin**E** learning aided stratification and management of multiple long-term **CO**nditions in adults with intellectual **D**isabiliti**E**s (ID). This description is how the team came up with the project name **DECODE**.
+>
+> The project is based in Leicestershire and has collaborators at the Leicestershire NHS Trust, Loughborough University, University of Leicester, and 
+De Montfort University. 
 
 > You can find more information about DECODE on their website: https://decode-project.org/
 
