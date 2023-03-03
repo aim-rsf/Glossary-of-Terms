@@ -27,18 +27,18 @@ We can group such people based on their mixes of disease. Then we can study the 
 The OPTIMAL team includes patients, public members, and world leading experts from three universities with expertise in biology, AI, medicine, health service research, public health, and general practice. All will improve the care of people with cMM. We will make all outputs including software and data models openly available.
 
 
-# MELD-B
+## MELD-B
 
 > The MELD-B project is based at the University of Southampton, with collaborators at University of Glasgow, Swansea University, Southampton City Council, the University of Aberdeen, and King's College London
 > The MELD-B team uses an Artificial Intelligence-enhanced analysis of birth cohort data and electronic health records to identify lifecourse time points and targets for the prevention of early-onset, burdensome Multiple Long-Term Conditions. 
 
-## Background to MELD-B's Research
+### Background to MELD-B's Research
 A growing number of people are living with several long-term health conditions like diabetes, heart disease, depression or dementia. We call this multimorbidity. Many things throughout a person’s life influence the chances of developing health conditions. This includes their biology (e.g. age, ethnicity), things that happen to them (e.g. infections, accidents), behaviours (e.g. smoking, diet) and broader experiences (e.g. the environment people grew up in, their education, work, income). People from more disadvantaged backgrounds and/or certain ethnicities are more likely to develop multimorbidity and to develop it   earlier. The impact (or ‘burden’) of multimorbidity, and the order that people develop conditions, also vary. We don’t know what all the possible opportunities are to prevent burdensome multi-morbidity. 
 
-## MELD-B's Research Aims
+### MELD-B's Research Aims
 We aim to understand more about what things influence the way people develop early multimorbidity over their lifetime and the burden this has for them. By ‘early’ we mean before age 65. This will identify key time points in a person’s life where prevention efforts should be targeted or strengthened to reduce the risk of that person developing burdensome multimorbidity. 
 
-## The Research Design and methods used
+### The Research Design and methods used
 1.	To understand what ‘burdensome’ means for people with multimorbidity and how it   could be prevented or reduced, we will ask patients, carers and multimorbidity experts their views and carefully summarise previous research on this issue.
 2.	Ideally, we would study very large numbers of people from birth to death. However, not enough of this type of data is available. Therefore, we will use Artificial Intelligence (AI) methods (using computers to learn patterns from data) to help us connect information and knowledge from two very big General Practitioner datasets with information from three ‘birth cohorts’ – research studies of people all born in    the same year (e.g. 1970) and followed throughout their lives. 
 3.	We will also use AI methods to help us understand the order in which people develop conditions and how they group together to become ‘burdensome’. 
@@ -49,4 +49,7 @@ A diverse ten-person Patient and Public Advisory Board will oversee the project.
 
 ## How MELD-B's will share their research's findings
 Our ‘People, Policy and Impact’ group will share our learning and influence policy and practice on preventing burdensome multimorbidity by co-producing public health advice.  We will share findings through academic channels, a website and social media.
+
+
+
 
