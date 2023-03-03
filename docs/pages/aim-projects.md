@@ -26,7 +26,7 @@ We can group such people based on their mixes of disease. Then we can study the 
 
 The OPTIMAL team includes patients, public members, and world leading experts from three universities with expertise in biology, AI, medicine, health service research, public health, and general practice. All will improve the care of people with cMM. We will make all outputs including software and data models openly available.
 
-You can read more information about the OPTIMAL project on their website: [University of Birmingham Applied Health Research: OPTIMAL](https://www.birmingham.ac.uk/research/applied-health/research/optimal/index.aspx)
+* You can read more information about the OPTIMAL project on their website: [University of Birmingham Applied Health Research: OPTIMAL](https://www.birmingham.ac.uk/research/applied-health/research/optimal/index.aspx)
 
 
 ## MELD-B
