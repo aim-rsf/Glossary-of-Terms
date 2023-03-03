@@ -26,6 +26,8 @@ We can group such people based on their mixes of disease. Then we can study the 
 
 The OPTIMAL team includes patients, public members, and world leading experts from three universities with expertise in biology, AI, medicine, health service research, public health, and general practice. All will improve the care of people with cMM. We will make all outputs including software and data models openly available.
 
+You can read more information about the OPTIMAL project on their website: [University of Birmingham Applied Health Research: OPTIMAL](https://www.birmingham.ac.uk/research/applied-health/research/optimal/index.aspx)
+
 
 ## MELD-B
 
@@ -50,6 +52,10 @@ A diverse ten-person Patient and Public Advisory Board will oversee the project.
 ## How MELD-B's will share their research's findings
 Our ‘People, Policy and Impact’ group will share our learning and influence policy and practice on preventing burdensome multimorbidity by co-producing public health advice.  We will share findings through academic channels, a website and social media.
 
+* You can read more about the MELD-B project on their page at [University of Southampton - MELD-B](https://www.southampton.ac.uk/publicpolicy/support-for-policymakers/policy-projects/Current%20projects/meld-b.page) or in their first blog post which you can find here: [University of Southampton - MELD-B Introductory Blog](https://www.southampton.ac.uk/publicpolicy/support-for-policymakers/blogs/evidence-to-policy-blog/meld-b-blog.page)
 
 
+## DECODE 
+
+> You can find more information about DECODE on their website: https://decode-project.org/
 
