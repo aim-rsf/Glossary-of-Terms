@@ -70,7 +70,7 @@ However, health professionals like doctors or nurses often focus on one conditio
 
 Artificial Intelligence (AI) uses powerful computers to analyse and understand this kind of complex information, which is carefully gathered by the NHS and others under strict rules to keep it safe and confidential. New AI methods can help us better understand what patterns of multimorbidity are common and which most affect people’s lives, and help improve the quality and safety of care. 
 
-## What AIM-CISC Aims to achieve 
+### What AIM-CISC Aims to achieve 
 We propose a programme of research which will use AI methods to:
 
 1. Identify the most common combinations of long-term conditions that people have, and examine whether people inherit a tendency to get particular combinations of conditions from their parents. This will help us understand what causes multimorbidity, and identify potential treatments.
