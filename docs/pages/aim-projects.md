@@ -2,6 +2,8 @@
 
 > Introduction section 
 
+[TOC]
+
 
 ## OPTIMAL 
 
@@ -86,8 +88,6 @@ We will also work closely with other research teams to share learning and method
 
 
 
-
-
 ## DECODE 
 
 > The DECODE project aims to map the challenges and requirements for **D**ata-driven, machin**E** learning aided stratification and management of multiple long-term **CO**nditions in adults with intellectual **D**isabiliti**E**s (ID). This description is how the team came up with the project name **DECODE**.
@@ -96,4 +96,39 @@ We will also work closely with other research teams to share learning and method
 De Montfort University. 
 
 > You can find more information about DECODE on their website: https://decode-project.org/
+
+### Background to the DECODE project
+
+About 1 in 100 people are identified as having intellectual disabilities (also known as learning disability in UK). Of these, about two-thirds have two or more long-term health problems, known as multiple long-term conditions (MLTCs). Sometimes these conditions, such as diabetes and heart problems, can be delayed or prevented through lifestyle changes. For other conditions like epilepsy, better management can improve the quality of life.
+We are a group of researchers, health care professionals, people with Intellectual Disabilities and carers.   We are committed to valuing diversity and improving the lives of people with intellectual disabilities to manage and prevent MLTCs.
+
+
+### Aims of the research
+
+We will use computer programs, called machine learning, to learn more about MLTCs in people with intellectual disabilities. We will find out which conditions are more likely to occur together and what happens over time. This information will help us to develop a new way of providing the care for people with Intellectual disabilities and MLTCs which would be better co-ordinated, effective and timely.
+
+Design and methods used
+
+Our research combines Healthcare Information (data) and what we hear from experts. The experts include Experts by Experience (people with intellectual disabilities and their carers) and Professional Experts.
+
+1.	Healthcare information (data)
+We will use healthcare data on people with intellectual disabilities from England and Wales to find out:
+* MLTCs that tend to occur together, and
+* What happens to some of these MLTCs over time and the role of factors, like lifestyle habits of people and their financial and social situations.
+
+2.	Input from Experts by Experience
+People with intellectual disabilities, their families, and carers will either act as research partners (as part of Public and Patient Involvement groups) or as research participants. We will recruit research participants for workshops or interviews where this is needed. They will help to:
+* Decide on the most important MLTCs affecting the lives of people with intellectual disabilities.
+* Make recommendations about the care of people with MLTCs.
+* Produce visual information such as graphs and infographics specially designed for people that will use them, including people with intellectual disabilities. When we have finished this work, we will propose a new model which aims to improve care and support for people with intellectual disabilities and MLTCs.
+
+### Patient and Public Involvement
+
+We have worked closely with people with intellectual disabilities and their carers to develop this project. We are currently training a group of people with intellectual disabilities to become research partners. Our work with these groups of people helped us understand the support they need to take part in the research. 
+
+Continued involvement of patients and members of the public will be supported by our carer co-applicant, charity partners and Sense College, a local college supporting people with intellectual disabilities
+
+### Dissemination
+
+As well as research publications, our findings will be shared via social media, our charity partners, intellectual disability conferences, and national committees that contribute to guidelines. 
 
