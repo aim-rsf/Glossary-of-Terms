@@ -186,7 +186,7 @@ Our ‘People, Policy and Impact’ group will share our learning and influence 
 
 ## CoMPuTE
 
-> The The Complex Multiple long-term conditions Phenotypes, Trends, and Endpoints (CoMPuTE) project uses Artificial Intelligence to help predict who is more likely to develop multiple long-term conditions. The project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR204406). It is based on the University of Oxford, University of Leeds and University College London.
+> The Complex Multiple long-term conditions Phenotypes, Trends, and Endpoints (CoMPuTE) project uses Artificial Intelligence to help predict who is more likely to develop multiple long-term conditions. The project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR204406). It is based on the University of Oxford, University of Leeds and University College London.
 
 ### Background to the CoMPuTE project
 
@@ -198,7 +198,7 @@ This study hopes to predict who will suffer from MLTC and how MLTC will progress
 
 ### The CoMPuTE Research Aims
 
-This project looks at whether using artificial intelligence (AI) can help us predict those more likely to develop MLTC – to get help sooner to those who need it and prevent people developing MLTC in the first place. 
+This project looks at whether using artificial intelligence (AI) can help us predict those more likely to develop MLTC – to get help sooner to those who need it and prevent people from developing MLTC in the first place. 
 
 Regular computer models are already used for research on electronic health records. We want to use AI techniques to process this information faster and more accurately. The data will be ‘anonymised’ so it cannot be traced to individuals. Because many people have concerns about how their data are used, members of the public have been involved in this work from the beginning and will be involved throughout. A public member leads one section of work. Other public members work on an equal level with the academic researchers.
 
