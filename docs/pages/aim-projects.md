@@ -184,6 +184,34 @@ Our ‘People, Policy and Impact’ group will share our learning and influence 
 
 * You can read more about the MELD-B project on their page at [University of Southampton - MELD-B](https://www.southampton.ac.uk/publicpolicy/support-for-policymakers/policy-projects/Current%20projects/meld-b.page) or in their first blog post which you can find here: [University of Southampton - MELD-B Introductory Blog](https://www.southampton.ac.uk/publicpolicy/support-for-policymakers/blogs/evidence-to-policy-blog/meld-b-blog.page)
 
+## CoMPuTE
+
+> The Complex Multiple long-term conditions Phenotypes, Trends, and Endpoints (CoMPuTE) project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR204406). It is based on the University of Oxford, University of Leeds and University College London. 
+
+### Background to the CoMPuTE project
+
+More than a quarter of adults in England have more than one health condition. By 2035 this is expected to increase by 10-17%. Having more than one condition is called ‘multiple long-term conditions’ (MLTC). The more conditions someone has, the more disabling the effects.
+
+MLTC is difficult for both patients and carers: taking more medicines (with possible problems caused by conflicting or simply too many medications); the cost and wasted time of attending too many healthcare appointments; and the day-to-day challenges of living with multiple conditions.
+
+This study hopes to predict who will suffer from MLTC and how MLTC will progress over a person’s lifetime. Previous research has focused on looking at causes of MLTC, however much is still unknown about why certain conditions appear together, how they relate to normal ageing, prevention, and appropriate care. Also, although the NHS currently invests significant amounts of money in trying to prevent specific health conditions (e.g. heart disease, cancer), many people do not engage. This is a missed opportunity to prevent future ill health.
+
+### The CoMPuTE Research Aims
+
+This project looks at whether using artificial intelligence (AI) can help us predict those more likely to develop MLTC – to get help sooner to those who need it and prevent people developing MLTC in the first place. 
+
+Regular computer models are already used for research on electronic health records. We want to use AI techniques to process this information faster and more accurately. The data will be ‘anonymised’ so it cannot be traced to individuals. Because many people have concerns about how their data are used, members of the public have been involved in this work from the beginning and will be involved throughout. A public member leads one section of work. Other public members work on an equal level with the academic researchers.
+
+- This study hopes to see whether it is possible to predict who will suffer from MLTC and how MLTC will progress over a person’s lifetime.
+- It will investigate inequalities and the health and financial burden of MLTC.
+- It brings in the public perspective on ethical and social questions about the use of AI in healthcare. Members of often-excluded communities will be actively involved in discussion groups, the development of study materials and the writing of papers. This is important to ensure that plans to help people with MLTC address everyone’s health and care needs.
+
+### How CoMPuTE will involve patients and members of the public
+
+The amount of public participation and leadership in this project makes it unique. One-third of the project is entirely public-led.
+
+We believe that this project will become an example of best practice in knitting together cutting-edge technology with ethical reflection and public involvement, and help to develop new approaches to care which reduce the number of people developing MLTC.
+
 ## AI-MIXED Cluster 
 
 > Information coming soon. 
