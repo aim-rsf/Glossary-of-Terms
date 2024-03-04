@@ -192,7 +192,7 @@ Our ‘People, Policy and Impact’ group will share our learning and influence 
 
 More than a quarter of adults in England have more than one health condition. By 2035 this is expected to increase by 10-17%. Having more than one condition is called ‘multiple long-term conditions’ (MLTC). The more conditions someone has, the more disabling the effects.
 
-MLTC is difficult for both patients and carers: taking more medicines (with possible problems caused by conflicting or simply too many medications); the cost and wasted time of attending too many healthcare appointments; and the day-to-day challenges of living with multiple conditions.
+MLTC are difficult for both patients and carers: taking more medicines (with possible problems caused by conflicting or simply too many medications); the cost and wasted time of attending too many healthcare appointments; and the day-to-day challenges of living with multiple conditions.
 
 This study hopes to predict who will suffer from MLTC and how MLTC will progress over a person’s lifetime. Previous research has focused on looking at causes of MLTC, however much is still unknown about why certain conditions appear together, how they relate to normal ageing, prevention, and appropriate care. Also, although the NHS currently invests significant amounts of money in trying to prevent specific health conditions (e.g. heart disease, cancer), many people do not engage. This is a missed opportunity to prevent future ill health.
 
