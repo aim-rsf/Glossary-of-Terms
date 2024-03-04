@@ -186,7 +186,7 @@ Our ‘People, Policy and Impact’ group will share our learning and influence 
 
 ## CoMPuTE
 
-> The CoMPuTE project uses Artificial Intelligence to help predict who is more likely to develop multiple long-term conditions. The project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR204406). It is based on the University of Oxford, University of Leeds and University College London. 
+> The The Complex Multiple long-term conditions Phenotypes, Trends, and Endpoints (CoMPuTE) project uses Artificial Intelligence to help predict who is more likely to develop multiple long-term conditions. The project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR204406). It is based on the University of Oxford, University of Leeds and University College London.
 
 ### Background to the CoMPuTE project
 
@@ -208,9 +208,7 @@ Regular computer models are already used for research on electronic health recor
 
 ### How CoMPuTE will involve patients and members of the public
 
-The amount of public participation and leadership in this project makes it unique. One-third of the project is entirely public-led.
-
-We believe that this project will become an example of best practice in knitting together cutting-edge technology with ethical reflection and public involvement, and help to develop new approaches to care which reduce the number of people developing MLTC.
+One-third of the project is entirely public-led. We believe that this project will become an example of best practice in knitting together cutting-edge technology with ethical reflection and public involvement, and help to develop new approaches to care which reduce the number of people developing MLTC.
 
 ## AI-MIXED Cluster 
 
