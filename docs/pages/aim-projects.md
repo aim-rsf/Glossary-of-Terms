@@ -208,7 +208,9 @@ Regular computer models are already used for research on electronic health recor
 
 ### How CoMPuTE will involve patients and members of the public
 
-One-third of the project is entirely public-led. We believe that this project will become an example of best practice in knitting together cutting-edge technology with ethical reflection and public involvement, and help to develop new approaches to care which reduce the number of people developing MLTC.
+One of the three CoMPuTE Themes (Ethics, Patients and the Public’) is entirely public-led and aims to adopt best practices and break new ground in public and patient involvement in directing the research.  Our public stakeholder group brings a wide range of competencies and experience, including personal, geographical, ethnic, socio-economic and age diversity and lived experience of the immigrant experience and living with MLTC, and professional competencies in engineering, randomised control trials, medical communication, project management and health care delivery, to name a few.  
+
+Public members are linked with the data and epidemiology Themes (Themes 1 and 2) and are increasingly embedded in that work.  Public members have already helped shift the direction of research.  Public members already work with and will be presenting to researchers within and beyond the programme; we are planning a series of public-led mini-webinar; our public members will be co-authoring papers, and they will be forging the broader dissemination strategy.
 
 ## AI-MIXED Cluster 
 
