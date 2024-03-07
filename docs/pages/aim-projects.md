@@ -135,7 +135,7 @@ We have built a large network of collaborators working on related projects acros
 
 > The OPTIMAL project is about **OPTIM**ising therapies, discovering therapeutic targets and **AI** assisted clinical management for patients **L**iving with complex multiple long-term conditions. This description is how the team came up with the name **OPTIMAL**.
 >
-> The OPTIMAL project is based at the University of Birmingham and University of Manchester, with collaborators in the University Hospitals Birmingham NHS Trust, NHS Greater Glasgow & Clyde, and the University of St Andrews.
+> The OPTIMAL project is based at the University of Birmingham and University of Oxford, with collaborators in the University Hospitals Birmingham NHS Trust, NHS Greater Glasgow & Clyde, and the University of St Andrews.
 
 ### What's the research problem OPTIMAL is addressing?
 We treat each disease separately. This means we prescribe a different drug for each condition, which may not help people with four or more long-term health problems. (We say these people have complex multimorbidity or "**cMM**".) A drug for one disease can make another disease worse or better. But there’s no information on the effect of one drug on a second disease. This means we are not sure which drug to prescribe in these people.
